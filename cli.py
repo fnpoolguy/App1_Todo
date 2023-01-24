@@ -1,4 +1,4 @@
-# from functions import get_todos, save_todos
+from functions import get_todos, save_todos
 import functions
 import time
 
